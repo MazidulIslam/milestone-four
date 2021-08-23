@@ -1,0 +1,11 @@
+var friendsAge = [25, 26, 27, 28, 29, 28, 24, 25, 26, 27];
+console.log(friendsAge);
+var favHero = ['Salman Shah', 'Leonardo Decaprio', 'Jason Stetham', 'Sylvestar Stalone'];
+console.log(favHero);
+console.log(favHero.length);
+console.log(favHero.indexOf('Salman Shah'));
+console.log(favHero[2]);
+var thirdIndex = favHero[3];
+console.log(thirdIndex);
+friendsAge[5] = 32;
+console.log(friendsAge);
